@@ -7,6 +7,12 @@
     
 }
 
+@media (min-width: 992px) {
+    .column {
+        background-color: #0997d3;
+    }
+}
+
 @media (min-width: 768px) {
     .column {
         background-color: #e84610;
@@ -15,8 +21,3 @@
     }
 }
 
-@media (min-width: 992px) {
-    .column {
-        background-color: #0997d3;
-    }
-}
